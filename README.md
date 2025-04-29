@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7A720&center=true&random=true&width=435&lines=Hi%F0%9F%91%8B;A+Full+Stack+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+am+Biplob+Ghatak)](https://git.io/typing-svg)
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F78616&width=435&lines=Hi%F0%9F%91%8B;I+am+Biplob+Ghatak;A+Full-Stack+Web+Developer%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 # 💫 About Me:
 A passionate developer and problem solver with 4.5 years of experience in making the web a better place.<br>Ask me about React, NextJS , NodeJS, WordPress , PHP and many more.<br>How to reach me ghatakbits@gmail.com<br>Some of my cool projects can be found on my website: https://ghatakbits.in/<br>Know about my experiences https://ghatakbits.in/assets/Biplob-Ghatak-D80sjCIR.pdf
